@@ -1,0 +1,14 @@
+{
+  "name": "mysql-to-mongodb",
+  "version": "1.0.0",
+  "description": "Convert mysql to mongodb",
+  "main": "index.js",
+  "author": "alfin",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "mongodb": "^4.10.0",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.23.2"
+  }
+}

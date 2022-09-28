@@ -1,6 +1,6 @@
 # WHAT IS THIS ?
 
-> this is an mysql exporter to mongodb
+> this is a mysql data exporter to mongodb
 
 # HOW TO USE ?
 

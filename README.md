@@ -8,4 +8,4 @@
 > fill your .env file
 > run node index.js for starting exporter
 
-# <a href="https://ko-fi.com/alfinforwork">Buy me a coffee</a>
+# <a href="https://ko-fi.com/alfinforwork" target="_blank">Buy me a coffee</a>
